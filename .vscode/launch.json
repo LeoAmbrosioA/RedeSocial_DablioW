@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DablioWApplication<DablioW>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.DablioW.DablioWApplication",
+            "projectName": "DablioW",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
